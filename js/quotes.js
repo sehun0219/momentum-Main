@@ -1,7 +1,8 @@
 const quotes = [
   {
-    quote: "Be yourself; everyone else is already taken.",
-    author: " Oscar Wilde",
+    quote:
+      "I believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.",
+    author: "Marilyn Monroe",
   },
   {
     qoute: "So many books, so little time.",
